@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MPDEarthquakes</string>
+    <string name="Sort_By">Sort Earthquakes By</string>
+    <string name="Location">Location: </string>
+    <string name="Date">Date: </string>
+    <string name="Time">Time: </string>
+    <string name="Depth">Depth: </string>
+    <string name="Magnitude">Magnitude: </string>
+    <string name="infoDate">Date:</string>
+    <string name="infoTime">TIme:</string>
+    <string name="infoMagnitude">Magnitude:</string>
+</resources>
